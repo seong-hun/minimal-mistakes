@@ -14,6 +14,6 @@ mathjax: true
 
 Consider the first order, scalar PDE
 
-\[ F(x, u, \nabla u) = 0 \]
+\\[ F(x, u, \nabla u) = 0 \\]
 
 
