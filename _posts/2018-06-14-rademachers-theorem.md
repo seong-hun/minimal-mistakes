@@ -5,6 +5,7 @@ read_time: true
 comments: true
 share: true
 related: true
+mathjax: true
 ---
 
 # Rademacher's Theorem
